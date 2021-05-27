@@ -32,6 +32,6 @@ you can install these libraries using pip :
 
 #pip install tkinter
 
-In this case I have used the chrome webbrowser to automate the process , so make sure you download the correct version of chromedriver depending upon your chrome version in this link - https://chromedriver.chromium.org/downloads .keep the extracted chromedriver in the same folder as the python script.
+In this case I have used the chrome webbrowser to automate the process , i already have the chromedriver for chromebrowser Version 90.0.4430.212 added in this repository ,if you have a different chrome browser version make sure you download the correct version of chromedriver depending upon your chrome version in this link - https://chromedriver.chromium.org/downloads .keep the extracted chromedriver in the same folder as the python script.
 
-The results are going to be loaded into an excel file so make sure you also have a empty excel file named product_listing created and kept in the same folder.
+I already added the empty excel file with the file name product_listing in this repository which is where the output is going to be loaded.
