@@ -34,4 +34,4 @@ you can install these libraries using pip :
 
 In this case I have used the chrome webbrowser to automate the process , so make sure you download the correct version of chromedriver depending upon your chrome version in this link - https://chromedriver.chromium.org/downloads .keep the extracted chromedriver in the same folder as the python script.
 
-The results are going to be loaded into a excel file so make sure you also have a empty excel file named product_listing created and kept in the same folder.
+The results are going to be loaded into an excel file so make sure you also have a empty excel file named product_listing created and kept in the same folder.
