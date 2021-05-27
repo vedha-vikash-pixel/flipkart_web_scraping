@@ -1,7 +1,7 @@
 # flipkart_web_scraping
 The python script is gonna get you all the details of a particular product in flipkart loaded into a excel sheet.
 
-There are certain libraries that this scrip makes use of namely so make sure you have these libraries in your environment : 
+There are certain libraries that this scrip makes use of , so make sure you have these libraries in your environment : 
 openpyxl
 
 lxml
